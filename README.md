@@ -38,4 +38,4 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 
 # Hello World!
 
-My name is <GITHUB-USERNAME>
+My name is Senthil Jayabal
